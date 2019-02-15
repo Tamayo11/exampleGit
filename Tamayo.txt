@@ -1,1 +1,3 @@
 entrego desde Tamayo local
+modificar los archivos
+de origen master
